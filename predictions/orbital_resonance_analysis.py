@@ -434,7 +434,8 @@ def sensitivity_analysis(ratios):
             sample = np.random.choice(ratios, size, replace=False)
             count = np.sum(np.abs(sample - 1.5) < 0.02)
             expected = (2 * 0.02) / (np.max(sample) - np.min(sample))
-            p_val = stats.binom_test(count, size, expected)
+            binom_result = stats.binomtest(count, size, expected)
+            p_val = binom_result.pvalue
             p_values.append(p_val)
         
         median_p = np.median(p_values)
