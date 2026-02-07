@@ -1,8 +1,8 @@
 # Pressure-Field Gravity: A Unifying Framework Without Dark Matter
 
-**Author:** [Your Name]  
-**Date:** December 2024  
-**Status:** Public Disclosure for Timestamping and Peer Review  
+**Primary Author:** Adam Lee Hatchett  
+**Initial Public Disclosure:** February 7, 2025  
+**Technical Assistance:** ChatGPT (formatting and structuring)  
 **License:** MIT (See LICENSE file)
 
 ---
@@ -337,7 +337,9 @@ If successful, this framework would:
 
 ## Repository Contents
 
-- **[gravity_through_pressure.md](./gravity_through_pressure.md)** - **START HERE** - Conceptual guide explaining the paradigm shift
+- **[EXPLORATORY_FRAMEWORK.md](./EXPLORATORY_FRAMEWORK.md)** - **PRIMARY DOCUMENT** - Adam Lee Hatchett's original exploratory framework and discovery disclosure
+- **[QUICKSTART.md](./QUICKSTART.md)** - 5-minute introduction for all audiences
+- **[gravity_through_pressure.md](./gravity_through_pressure.md)** - Conceptual guide explaining the paradigm shift
 - **[derivations.md](./derivations.md)** - Detailed mathematical derivations
 - **[milky_way_rotation.md](./milky_way_rotation.md)** - Numerical example with Python code
 - **[milky_way_rotation.py](./milky_way_rotation.py)** - Executable Python script
@@ -352,15 +354,16 @@ If successful, this framework would:
 If you use or build upon this work, please cite:
 
 ```
-[Your Name]. (2024). "Pressure-Field Gravity: A Unifying Framework Without Dark Matter."
+Hatchett, Adam Lee. (2025). "Emergent Pressure-Field Gravity: Exploratory Framework."
 GitHub repository: https://github.com/[your-username]/emergent-pressure-gravity
+Initial Public Disclosure: February 7, 2025
 ```
 
 ---
 
 ## Contact & Contributions
 
-**Author:** [Your Name]  
+**Primary Author:** Adam Lee Hatchett  
 **Email:** [Your Email]  
 **Collaboration:** Open to discussion and collaboration
 

@@ -1,45 +1,55 @@
 # Timeline: Development and Disclosure Notes
 
+**Author:** Adam Lee Hatchett  
+**Initial Public Disclosure:** February 7, 2025  
+**Technical Assistance:** ChatGPT (formatting and structuring)
+
 This document provides a timestamped record of the development of the pressure-field gravity framework for public disclosure and priority timestamping.
 
 ---
 
-## December 7, 2024
+## February 7, 2025
 
-### Initial Concept Formulation
+### Initial Concept and Discovery
 
-**Time:** 19:00 UTC  
-**Status:** Initial theoretical framework developed
+**Time:** Throughout 2024-2025  
+**Status:** Core theoretical insight developed by Adam Lee Hatchett
 
-**Key Ideas:**
+**Original Discovery:**
 - Gravity emerges from pressure gradients in universal scalar field
-- Newtonian limit achieved through standard Poisson equation
-- Vacuum feedback introduces Yukawa-like modification at galactic scales
-- Framework naturally produces flat rotation curves
+- Conceptual breakthrough viewing gravitational phenomena as pressure-field dynamics
+- Physical mechanism for MOND-like phenomenology without dark matter
 
-**Mathematical Framework:**
-- Field equation: ∇²P - (1/λ²)P = -4πk ρ_mass
-- Test particle dynamics: a = -(1/ρ_eff) ∇P
-- Connection to G via: G = k/(4π ρ_eff)
+**Key Insight:**
+> "Gravity emerges from pressure differentials in vacuum energy."
 
 **Motivation:**
 - Alternative to dark matter paradigm
-- Physical mechanism for MOND-like phenomenology
+- Simpler mathematical framework than General Relativity at galactic scales
 - Testable predictions for galactic dynamics
 
 ---
 
-### Repository Creation and Documentation
+### Public Disclosure and Documentation
 
-**Time:** 20:30 UTC  
-**Status:** Complete documentation package created
+**Time:** February 7, 2025  
+**Status:** Complete documentation package created and publicly disclosed
 
-**Documents Created:**
-1. **README.md** - Main theoretical paper with full framework
-2. **derivations.md** - Detailed mathematical derivations
-3. **milky_way_rotation.md** - Numerical example and analysis
-4. **milky_way_rotation.py** - Working Python implementation
-5. **timeline.md** - This timestamped disclosure record
+**Primary Document:** EXPLORATORY_FRAMEWORK.md
+- Author: Adam Lee Hatchett
+- Contains original equations and framework
+- Milky Way rotation curve analysis
+- Python simulation code
+- Clear statement of authorship and discovery
+
+**Supporting Documents Created:**
+1. **README.md** - Extended theoretical paper
+2. **derivations.md** - Mathematical derivations
+3. **gravity_through_pressure.md** - Conceptual explanations
+4. **milky_way_rotation.md** - Detailed numerical example
+5. **milky_way_rotation.py** - Working Python implementation
+6. **QUICKSTART.md** - Accessible introduction
+7. **timeline.md** - This timestamped disclosure record
 
 **Key Results:**
 - Milky Way rotation curve successfully reproduced
