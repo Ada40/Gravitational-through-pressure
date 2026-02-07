@@ -337,8 +337,10 @@ If successful, this framework would:
 
 ## Repository Contents
 
+- **[gravity_through_pressure.md](./gravity_through_pressure.md)** - **START HERE** - Conceptual guide explaining the paradigm shift
 - **[derivations.md](./derivations.md)** - Detailed mathematical derivations
 - **[milky_way_rotation.md](./milky_way_rotation.md)** - Numerical example with Python code
+- **[milky_way_rotation.py](./milky_way_rotation.py)** - Executable Python script
 - **[timeline.md](./timeline.md)** - Timestamped disclosure and development notes
 - **[figures/](./figures/)** - Plots and visualizations
 - **[LICENSE](./LICENSE)** - MIT License for public use
