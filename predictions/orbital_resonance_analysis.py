@@ -153,7 +153,8 @@ def statistical_proof_beyond_doubt(ratios):
     expected_count = expected_fraction * total_count
     
     # Binomial test
-    p_value = stats.binom_test(observed_count, total_count, expected_fraction)
+    binom_result = stats.binomtest(observed_count, total_count, expected_fraction)
+    p_value = binom_result.pvalue
     
     # Calculate sigma (standard deviations)
     sigma = stats.norm.ppf(1 - p_value/2)  # Two-tailed to sigma
