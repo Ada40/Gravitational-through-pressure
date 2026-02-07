@@ -409,7 +409,8 @@ def sensitivity_analysis(ratios):
         expected = (2 * tolerance) / (max_r - min_r)
         
         # Statistical test
-        p_value = stats.binom_test(count, len(ratios), expected)
+        binom_result = stats.binomtest(count, len(ratios), expected)
+        p_value = binom_result.pvalue
         sigma = stats.norm.ppf(1 - p_value/2)
         
         significance = "✓" if sigma > 5 else "✗"
