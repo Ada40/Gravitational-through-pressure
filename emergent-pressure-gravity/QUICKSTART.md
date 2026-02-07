@@ -1,5 +1,6 @@
 # Quick Start Guide: Pressure-Field Gravity
 
+**Author:** Adam Lee Hatchett  
 **Get up to speed in 5 minutes**
 
 ---
@@ -14,6 +15,8 @@ This theory:  Mass → Pressure gradients → Objects roll "downhill"
 ```
 
 **Result:** Flat galaxy rotation curves without dark matter!
+
+**Discovery:** Adam Lee Hatchett, February 2025
 
 ---
 
@@ -71,16 +74,18 @@ Objects accelerate down pressure gradients!
 
 ### For General Audience
 
-1. **[gravity_through_pressure.md](./gravity_through_pressure.md)** - Conceptual introduction with analogies
-2. **[milky_way_rotation.md](./milky_way_rotation.md)** - See it work for real galaxy
-3. **[README.md](./README.md)** - Full theoretical framework
+1. **[EXPLORATORY_FRAMEWORK.md](./EXPLORATORY_FRAMEWORK.md)** - Adam Lee Hatchett's original discovery document
+2. **[gravity_through_pressure.md](./gravity_through_pressure.md)** - Conceptual introduction with analogies
+3. **[milky_way_rotation.md](./milky_way_rotation.md)** - See it work for real galaxy
+4. **[README.md](./README.md)** - Full theoretical framework
 
 ### For Scientists
 
-1. **[README.md](./README.md)** - Complete theory and predictions
-2. **[derivations.md](./derivations.md)** - Mathematical proofs
-3. **[milky_way_rotation.py](./milky_way_rotation.py)** - Run the code yourself
-4. **[timeline.md](./timeline.md)** - Development history and next steps
+1. **[EXPLORATORY_FRAMEWORK.md](./EXPLORATORY_FRAMEWORK.md)** - Original framework and authorship statement
+2. **[README.md](./README.md)** - Complete theory and predictions
+3. **[derivations.md](./derivations.md)** - Mathematical proofs
+4. **[milky_way_rotation.py](./milky_way_rotation.py)** - Run the code yourself
+5. **[timeline.md](./timeline.md)** - Development history and next steps
 
 ### For Coders
 
