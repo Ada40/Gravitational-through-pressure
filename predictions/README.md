@@ -4,6 +4,13 @@
 
 This repository contains a comprehensive statistical analysis of exoplanet orbital resonances using NASA data, demonstrating with **12.7σ certainty** (far exceeding the 5σ standard for scientific discovery) that planetary systems preferentially arrange themselves in 3:2 and 2:1 orbital resonances.
 
+## 📚 Complete Documentation
+
+- **[White Paper](./WHITE_PAPER.md)** - Full technical white paper with all findings, methods, and analysis
+- **[Social Media Posts](./SOCIAL_MEDIA_POSTS.md)** - Ready-to-share content for Twitter, LinkedIn, Reddit, etc.
+- **[Media Summary](./MEDIA_SUMMARY.md)** - One-page summary for press and media outlets
+- **[Analysis Script](./orbital_resonance_analysis.py)** - Complete Python code for reproducibility
+
 ## 📊 Key Findings
 
 - **3:2 Resonance Frequency**: 38.2% (vs 8% expected by random chance)
